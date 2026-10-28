@@ -1,0 +1,7 @@
+app = "join-counter"
+primary_region = "fra"
+
+[build]
+
+[processes]
+  app = "python bot.py"
